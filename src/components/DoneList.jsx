@@ -29,3 +29,5 @@ export default function DoneList({ todos, toggleTodo, deleteTodo }) {
     </Container>
   );
 }
+
+export default DoneList;

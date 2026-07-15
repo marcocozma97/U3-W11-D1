@@ -20,3 +20,5 @@ export default function CustomNavbar() {
     </Navbar>
   );
 }
+
+export default CustomNavbar;

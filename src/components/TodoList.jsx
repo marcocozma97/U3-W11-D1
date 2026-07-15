@@ -48,3 +48,5 @@ export default function TodoList({ todos, addTodo, toggleTodo }) {
     </Container>
   );
 }
+
+export default TodoList;
